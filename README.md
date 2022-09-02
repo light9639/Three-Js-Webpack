@@ -1,4 +1,6 @@
-# :zap: three-js-webpack
+# :zap: Three-js-webpack
+
+![webpack-2](https://user-images.githubusercontent.com/95972251/188041653-eed812f9-3e9b-48b5-a04f-305b1c60b470.jpg)
 
 - Three.JS로 프로젝트를 시작하고 싶을 때, Webpack으로 만든 Three.js를 이용하세요
 
@@ -6,14 +8,15 @@
 
 ## :computer: Development
 
-- 밑의 링크를 다운받은 후 설치하면 사용하실 수 있습니다. :
+- 밑의 링크를 다운받은 후 설치하면 사용하실 수 있습니다:
 
 ```bash
 git clone https://github.com/light9639/three-js-webpack.git
+
 npm i
 ```
 
-- Webpack으로 개발해보세요. :
+- Webpack으로 개발해보세요:
 
 ```bash
 npm run start
@@ -29,14 +32,17 @@ npm run start
 
 ```bash
 npm run build
+
 git add
+
 git commit -m "Deploying on GitHub Pages"
+
 git push
 ```
 
 ## :tm: 기타
 
-- 이 코드는 prettier로 형식을 바꿀 수 있습니다. :
+- 이 코드는 prettier로 형식을 바꿀 수 있습니다:
 
 ```bash
 npm run format
