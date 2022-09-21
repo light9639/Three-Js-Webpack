@@ -40,7 +40,7 @@ git commit -m "Deploying on GitHub Pages"
 git push
 ```
 
-## :tm: 기타
+## 💡 기타
 
 - 이 코드는 prettier로 형식을 바꿀 수 있습니다:
 
