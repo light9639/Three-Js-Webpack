@@ -26,9 +26,7 @@
 
 ## :rocket: GitHub Pages에 배포하려면
 
-**작업 후 다른 정적 웹사이트에 호스팅하려고 할 때.**
-
-- 코드를 번들링 하신 후 Repository에 `push`하시면 됩니다.
+- 작업 후 다른 정적 웹사이트에 호스팅하려고 할 때. 코드를 번들링 하신 후 Repository에 `push`하시면 됩니다.
 
   ```bash
   npm run build
