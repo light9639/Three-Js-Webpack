@@ -10,17 +10,17 @@
 
 - 밑의 링크를 다운받은 후 설치하면 사용하실 수 있습니다:
 
-  ```bash
-  git clone https://github.com/light9639/three-js-webpack.git
+```bash
+git clone https://github.com/light9639/three-js-webpack.git
 
-  npm i
-  ```
+npm i
+```
 
 - Webpack으로 개발해보세요:
 
-  ```bash
-  npm run start
-  ```
+```bash
+npm run start
+```
 
 - Webpack 구성 파일은 [`webpack.config.js`](webpack.config.js)에 있습니다.
 
@@ -28,23 +28,23 @@
 
 - 작업 후 다른 정적 웹사이트에 호스팅하려고 할 때. 코드를 번들링 하신 후 Repository에 `push`하시면 됩니다.
 
-  ```bash
-  npm run build
+```bash
+npm run build
 
-  git add
+git add
 
-  git commit -m "Deploying on GitHub Pages"
+git commit -m "Deploying on GitHub Pages"
 
-  git push
-  ```
+git push
+```
 
 ## 💡 기타
 
 - 이 코드는 prettier로 형식을 바꿀 수 있습니다:
 
-  ```bash
-  npm run format
-  ```
+```bash
+npm run format
+```
 
 ## :paperclip: 출처
 
